@@ -1,6 +1,6 @@
 
 ## Exploring Anime Datasets: A Data Analysis Journey ⸜(｡˃ ᵕ ˂ )⸝♡
-![Anime](peakpx.jpg)
+![Anime](images/peakpx.jpg)
 
 ## Introduction
 Welcome to the Anime Exploratory Data Analysis (EDA) project! In this project, we embark on an exploration of anime datasets to gain valuable insights and conduct data analysis.
